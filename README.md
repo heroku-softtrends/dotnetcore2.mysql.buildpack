@@ -1,7 +1,7 @@
-# .NET Core 2.x Buildpack for Heroku with Mysql ClearDB by Softtrends
-## (Includes Heroku button to deploy a Sample ASP.Net Core 2.x Website with Mysql ClearDB)
+# .NET Core 2.x Buildpack for Heroku with Mysql ClearDB
+## by Softtrends
 
-This uses the .Net Core 2.x Buildpack provided by Softtends and adds full support for Mysql ClearDB<br>
+This Sample code uses the .Net Core 2.x Buildpack by Softtends and adds full support for Mysql ClearDB<br>
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
@@ -30,6 +30,8 @@ You can deploy this ASP.Net MVC website on Heroku server by clicking below butto
 <a href="https://heroku.com/deploy?template=https://github.com/heroku-softtrends/dotnetcore2.mysql.sample/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+
+To go to the repo for the sample code, [Click here](https://github.com/heroku-softtrends/dotnetcore2.mysql.sample) 
 
 ## This application consists of:
 
