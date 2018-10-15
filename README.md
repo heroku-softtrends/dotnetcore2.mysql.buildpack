@@ -1,7 +1,7 @@
-# .NET Core 2.x Buildpack for Heroku with Mysql ClearDB
+# .NET Core 2.1 Buildpack for Heroku with Mysql ClearDB
 ## by Softtrends
 
-This Sample code uses the .Net Core 2.x Buildpack by Softtends and adds full support for Mysql ClearDB<br>
+This Sample code uses the .Net Core 2.1 Buildpack by Softtends and adds full support for Mysql ClearDB<br>
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
